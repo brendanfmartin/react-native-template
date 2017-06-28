@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { Header } from './common';
 
-class App extends Component {
+class ReactNativeTemplate extends Component {
   render() {
     return (
       <View>
@@ -13,4 +13,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default ReactNativeTemplate;
